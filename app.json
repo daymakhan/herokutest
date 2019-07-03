@@ -1,8 +1,8 @@
 
 {
-  "name": "Simple Socket Server",
+  "name": "Sock__Serv",
   "description": "A Simple Socket Server by beginner",
   "repository": "https://github.com/daymakhan/herokutest",
-  "logo": "https://png.pngtree.com/element_pic/16/11/02/bd886d7ccc6f8dd8db17e841233c9656.jpg",
-  "keywords": ["python","test","Application"]
+  "logo": "https://www.logoground.com/uploads/201826212018-01-294243883pyromancer.jpg",
+  "keywords": ["Socket","python","test","Application"]
 }
