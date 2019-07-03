@@ -8,6 +8,7 @@ def server_program():
     server_socket.listen(2)
     conn, address = server_socket.accept() 
     print("Connection from: " + str(address))
+    conn.send(bytes("Hey there!!!", "utf-8"))
     while True:
         data = conn.recv(1024).decode()
         if not data:
